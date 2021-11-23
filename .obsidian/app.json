@@ -1,0 +1,11 @@
+{
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showLineNumber": false
+}

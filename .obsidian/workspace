@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "6cd9d3dede7697e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a6b9ab1d52149a",
+        "type": "leaf",
+        "dimension": 32.881773399014776,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "psychology/central nervous system.md",
+            "mode": "source"
+          }
+        },
+        "group": "5376c6dc7a9ec14f"
+      },
+      {
+        "id": "35066175b60095bf",
+        "type": "leaf",
+        "dimension": 67.11822660098522,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "psychology/central nervous system.md",
+            "mode": "preview"
+          }
+        },
+        "group": "5376c6dc7a9ec14f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45255349b7f08840",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b1728eacf274fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd998885951c248",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42ee438ee5bbe634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#conce",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13320b2e2ea8558a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b35d1f8f407c7c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ce9f642e0038b3",
+        "type": "tabs",
+        "dimension": 39.66480446927375,
+        "children": [
+          {
+            "id": "f7e940c8101650aa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "psychology/central nervous system.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.56941489286676,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a0a5773b855e4f24",
+        "type": "tabs",
+        "dimension": 37.988826815642454,
+        "children": [
+          {
+            "id": "60cdb0600e1bd590",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "psychology/central nervous system.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b944e58124a855cf",
+        "type": "tabs",
+        "dimension": 22.3463687150838,
+        "children": [
+          {
+            "id": "8d95c3d43e70aed6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "68a6b9ab1d52149a",
+  "lastOpenFiles": [
+    "psychology/central nervous system.md",
+    "psychology/homeostasis.md",
+    "psychology/somatic nervous system.md",
+    "psychology/peripheral nervous system.md",
+    "psychology/nervous system divisions.md",
+    "psychology/10. nervous and endocrine systems.md",
+    "psychology/home note - psychology.md",
+    "psychology/glands.md",
+    "psychology/parasympathetic nervous system.md",
+    "psychology/neurons.md"
+  ]
+}
